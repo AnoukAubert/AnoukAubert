@@ -17,7 +17,11 @@ Espero que les gusten mis proyectos
 on top of industry trends, always eager to innovate and deliver effective solutions!
 ## 💻 Tecnologies
 
-HTML || CSS || JavaScript || Visual Studio Code || Git Hub || Figma || Webpack || React.js || RestAPI || Node.js || Express.js || MongoDB || Excel || PowerPoint || Corel || Google Cloud || WordPress
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,figma,git,github,mongodb,nodejs,ps,npm,postman,react,vscode,webpack,wordpress,windows)](https://skillicons.dev)
+
+Además:
+
+RestAPI || Excel || PowerPoint || Corel || Google Cloud
 
 And some more...
 ## 📊 My stats
