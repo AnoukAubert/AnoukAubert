@@ -22,4 +22,4 @@ HTML || CSS || JavaScript || Visual Studio Code || Git Hub || Figma || Webpack |
 And some more...
 ## 📊 My stats
 
-Data
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnoukAubert&theme=modern-lilac&locale=es)](https://git.io/streak-stats)
