@@ -14,3 +14,12 @@ Espero que les gusten mis proyectos
 - 💬 Si te interesa mi perfil puedes contactarme y preguntarme lo que desees, estoy a tu disposición.
 - 
 - 📫 Contacto: anoukaubert85@gmail.com || https://www.linkedin.com/in/anouk-aubert-3441b427b/
+on top of industry trends, always eager to innovate and deliver effective solutions!
+## 💻 Tecnologies
+
+HTML || CSS || JavaScript || Visual Studio Code || Git Hub || Figma || Webpack || React.js || RestAPI || Node.js || Express.js || MongoDB || Excel || PowerPoint || Corel || Google Cloud || WordPress
+
+And some more...
+## 📊 My stats
+
+Data
