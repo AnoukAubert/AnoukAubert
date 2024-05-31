@@ -14,8 +14,7 @@ Espero que les gusten mis proyectos
 - 💬 Si te interesa mi perfil puedes contactarme y preguntarme lo que desees, estoy a tu disposición.
 - 
 - 📫 Contacto: anoukaubert85@gmail.com || https://www.linkedin.com/in/anouk-aubert-3441b427b/
-on top of industry trends, always eager to innovate and deliver effective solutions!
-## 💻 Tecnologies
+## 💻 Tecnologías
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,figma,git,github,mongodb,nodejs,ps,npm,postman,react,vscode,webpack,wordpress,windows)](https://skillicons.dev)
 
@@ -24,6 +23,6 @@ Además:
 RestAPI || Excel || PowerPoint || Corel || Google Cloud
 
 And some more...
-## 📊 My stats
+## 📊 Mis Estadísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AnoukAubert&theme=modern-lilac&locale=es)](https://git.io/streak-stats)
