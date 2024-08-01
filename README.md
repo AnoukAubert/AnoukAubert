@@ -14,7 +14,7 @@ Espero que les gusten mis proyectos
   
 - 💬 Si te interesa mi perfil puedes contactarme y preguntarme lo que desees, estoy a tu disposición.
   
-- 📫 Contacto: anoukaubert85@gmail.com || https://www.linkedin.com/in/anouk-aubert-3441b427b/
+- 📫 Contacto: anoukaubert85@gmail.com || https://www.linkedin.com/in/anouk-aubert-dev/
 ## 💻 Tecnologías
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,figma,git,github,mongodb,nodejs,ps,npm,postman,react,vscode,webpack,wordpress,windows)](https://skillicons.dev)
